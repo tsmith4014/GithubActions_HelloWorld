@@ -1,1 +1,1 @@
-# GithubActions_Teach
+# Github Actions Hello World exercise
